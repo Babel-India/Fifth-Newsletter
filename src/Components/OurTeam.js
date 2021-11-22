@@ -43,7 +43,7 @@ function TeamIntro() {
                 <Col>
                     <div>
                         <img className='introImage' src={Neha} alt="Neha" />
-                        <h4 className='member'>Neha Bhat</h4>
+                        <h4 className='member'>Neha Bhatt</h4>
                         <p>Web Developer</p>
                     </div>
                 </Col>
