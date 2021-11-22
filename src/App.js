@@ -22,9 +22,9 @@ function App() {
       <About />
       <Video />
       <BSTC />
+      <Games />
       <Insights />
       <Poem />
-      <Games />
       <Tournament />
       <TeamIntro />
     <Team />
